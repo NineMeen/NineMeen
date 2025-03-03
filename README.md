@@ -18,7 +18,7 @@
 ---
 
 ## 🛠 My Arsenal   
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=python)  
 
 
 
