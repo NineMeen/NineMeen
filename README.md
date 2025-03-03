@@ -1,7 +1,7 @@
 
 ---
 
-# 👾 Hey, I’m Thaktechin Boonson
+# 👾 Hey, I’m Thaktechin 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NineMeen&color=brightgreen)  
